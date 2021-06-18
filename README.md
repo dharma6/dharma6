@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technologies, obseesed with AWS.
 - 🌱 I’m currently learning various AWS features
 - 💞️ I’m looking to collaborate on, may be not right now, most of the time, it's my office work
-- 📫 How to reach me ...@email : dharmatejabandaru@gmail.com mob: 575-571-2174 linkedin: www.linkedin.com/dharmatejabandaru
+- 📫 How to reach me ...@email : dharmatejabandaru@gmail.com mob: 575-571-2174 linkedin: www.linkedin.com/in/dharmatejabandaru
 
 <!---
 dharma6/dharma6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
