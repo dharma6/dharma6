@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning various AWS features
 - 💞️ I’m looking to collaborate on, may be not right now, most of the time, it's my office work
 - 📫 How to reach me ...@email : dharmatejabandaru@gmail.com mob: 575-571-2174 linkedin: www.linkedin.com/in/dharmatejabandaru
-- Have lot of projects to update on the Github, will do it one by one as the time permits
+- Have lot of projects to update on the Github, will do it one by one as the time permits.(Expecting to create atleast 15 repositories on various technologies, which I have been involved so far)
 
 <!---
 dharma6/dharma6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
