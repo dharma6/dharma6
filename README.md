@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Dharma Bandaru
-- 👀 @dharmabandaru.com
+- 👀 [@dharmabandaru.com](https://dharmabandaru.com/)
