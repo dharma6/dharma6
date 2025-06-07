@@ -1,3 +1,6 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dharma6&label=Profile%20views&color=0e75b6&style=flat-square" alt="dharma6" /> 
+</p>
 - 👋 Hi, I’m Dharma Bandaru
 - 👀 [@dharmabandaru.com](https://dharmabandaru.com/)
 
